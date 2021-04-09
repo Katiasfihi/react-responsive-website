@@ -25,7 +25,6 @@ h1 {
 .cards__items {
   margin-bottom: 24px;
   list-style-type: none;
-  border: 2px solid black;
 }
 
 .cards__item {
@@ -35,7 +34,6 @@ h1 {
   max-width: 450px;
   max-height: 380px;
   border-radius: 10px;
-  border: 2px solid red;
 }
 
 .cards__item__link {
@@ -89,7 +87,6 @@ h1 {
   max-height: 250px;
   object-fit: cover;
   transition: all 0.2s linear;
-  border: 2px solid yellow;
   flex-wrap: wrap;
 }
 
@@ -99,7 +96,6 @@ h1 {
 
 .cards__item__info {
   padding: 10px 30px 30px;
-  border: 2px solid blue;
 }
 
 .cards__item__text {

@@ -24,23 +24,37 @@ function Cards() {
                         </ul>
                         <ul className='cards__items'>
                             <CardItem
-                                src='/img-9.jpg'
+                                src='/img-3.jpg'
                                 text='Explore the hidden waterfall deep inside the Amazon Jungle'
                                 label='Adventure'
                                 path='/services'
                             />
                             <CardItem
-                                src='/img-4.jpg'
+                                src='/img-6.jpg'
                                 text='Travel through the Islands of Bali in a Private Cruise'
                                 label='Luxury'
                                 path='/services'
                             />
                             <CardItem
-                                src='/img-4.jpg'
+                                src='/img-12.jpg'
                                 text='Travel through the Islands of Bali in a Private Cruise'
                                 label='Luxury'
                                 path='/services'
                             />
+                        </ul>
+                        <ul className='cards__items'>
+                            <CardItem
+                                src='/img-11.jpg'
+                                text='Explore the hidden waterfall deep inside the Amazon Jungle'
+                                label='Adventure'
+                                path='/services'
+                            />
+                            <CardItem
+                                src='/img-10.jpg'
+                                text='Explore the hidden waterfall deep inside the Amazon Jungle'
+                                label='Adventure'
+                                path='/services'
+                            />            
                         </ul>
                         
                     </div>
